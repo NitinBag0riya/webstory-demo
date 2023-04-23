@@ -1,0 +1,1 @@
+{"version":3,"file":"../css/web-stories-theme-style-twentytwenty.css","mappings":";;;AAAA;EACE,aAAa;EACb,gBAAgB;AAClB","sources":["webpack://web-story-creation-tool/./packages/stories-block/src/css/core-themes/twentytwenty.css"],"sourcesContent":[".web-stories-theme-header-section .web-stories-list {\n  margin-top: 0;\n  margin-bottom: 0;\n}\n"],"names":[],"sourceRoot":""}
